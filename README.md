@@ -4,6 +4,8 @@
 </br> 
 原文链接：https://teddysun.com/486.html</br> 
 </br> 
+### 脚本地址:https://github.com/teddysun/shadowsocks_install/tree/master</br> 
+</br> 
 </br> 
 本脚本适用环境</br> 
 系统支持：CentOS 6+，Debian 7+，Ubuntu 12+</br> 
@@ -37,8 +39,7 @@ ShadowsocksR 版 Windows 客户端</br>
 https://github.com/shadowsocksrr/shadowsocksr-csharp/releases</br> 
 </br> 
 </br> 
-###脚本地址:
-https://github.com/teddysun/shadowsocks_install/tree/master</br> 
+
 
 使用方法</br> 
 使用root用户登录，运行以下命令：</br> 
