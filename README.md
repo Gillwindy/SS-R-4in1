@@ -1,10 +1,8 @@
 # SS-R-4in1</br> 
-由于秋水逸冰网站国内无法访问，所以为有需要的朋友复制发布到github</br> 
 ### Shadowsocks 一键安装脚本（四合一）</br> 
 </br> 
-原文链接：https://teddysun.com/486.html</br> 
-</br> 
-### 脚本地址:https://github.com/teddysun/shadowsocks_install/tree/master</br> 
+## 脚本地址:  
+>https://github.com/teddysun/shadowsocks_install/tree/master  
 </br> 
 </br> 
 本脚本适用环境</br> 
